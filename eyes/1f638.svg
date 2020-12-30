@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 36 36"
+   version="1.1"
+   id="svg18"
+   sodipodi:docname="1f638.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <metadata
+     id="metadata24">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs22" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="728"
+     id="namedview20"
+     showgrid="false"
+     inkscape:zoom="11.652778"
+     inkscape:cx="12.50449"
+     inkscape:cy="23.673908"
+     inkscape:window-x="3840"
+     inkscape:window-y="312"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg18" />
+  <path
+     d="M28.416 17.723C28.355 17.632 26.901 15.5 24 15.5c-2.9 0-4.355 2.132-4.416 2.223-.135.202-.104.47.071.638.174.167.446.185.643.042.012-.01 1.262-.903 3.702-.903 2.426 0 3.674.881 3.702.901.089.066.194.099.298.099.124 0 .248-.046.344-.137.177-.167.207-.438.072-.64zm-12 0C16.355 17.632 14.901 15.5 12 15.5c-2.9 0-4.355 2.132-4.416 2.223-.134.202-.104.47.071.638.175.167.447.185.642.042.013-.01 1.262-.903 3.703-.903 2.426 0 3.674.881 3.702.901.089.066.194.099.298.099.124 0 .248-.046.344-.137.177-.167.207-.438.072-.64zM31.001 16c-.305 0-.604-.138-.801-.4-2.641-3.521-6.061-3.599-6.206-3.6-.55-.006-.994-.456-.991-1.005.003-.551.447-.995.997-.995.184 0 4.537.05 7.8 4.4.332.442.242 1.069-.2 1.4-.18.135-.39.2-.599.2zM4.999 16c-.208 0-.419-.065-.599-.2-.442-.331-.531-.958-.2-1.4C7.462 10.05 11.816 10 12 10c.552 0 1 .448 1 1 0 .551-.445.998-.996 1-.156.002-3.569.086-6.205 3.6-.195.262-.496.4-.8.4z"
+     fill="#292F33"
+     id="path16" />
+</svg>

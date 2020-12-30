@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 36 36"
+   version="1.1"
+   id="svg26"
+   sodipodi:docname="1f43c.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <metadata
+     id="metadata32">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs30" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1053"
+     id="namedview28"
+     showgrid="false"
+     inkscape:zoom="22.627417"
+     inkscape:cx="17.196334"
+     inkscape:cy="18.62477"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg26"
+     inkscape:document-rotation="0" />
+  <path
+     id="path16"
+     d="M 22.462891 12.054688 C 21.859539 12.114543 21.265734 12.307297 20.708984 12.654297 C 18.866367 13.803385 18.850457 17.409034 19.197266 20.4375 C 20.721523 20.996819 23.586739 22.127162 25.978516 23.615234 C 26.301135 23.339394 26.625298 23.036144 26.951172 22.669922 C 31.368172 17.708672 26.686352 11.635699 22.462891 12.054688 z M 13.513672 12.066406 C 9.2901973 11.646762 4.6073125 17.719516 9.0234375 22.681641 C 9.3504628 23.048958 9.6762758 23.352522 10 23.628906 C 12.376191 22.14612 15.235177 21.012443 16.777344 20.445312 C 17.123917 17.41735 17.1098 13.812353 15.267578 12.664062 C 14.710828 12.316937 14.117025 12.126355 13.513672 12.066406 z "
+     style="fill:#272b2b;fill-opacity:1" />
+  <path
+     fill="#66757F"
+     d="M11 17s0-2 2-2 2 2 2 2v2s0 2-2 2-2-2-2-2v-2z"
+     id="path18" />
+  <path
+     fill="#66757F"
+     d="M21 17s0-2 2-2 2 2 2 2v2s0 2-2 2-2-2-2-2v-2z"
+     id="path22" />
+</svg>

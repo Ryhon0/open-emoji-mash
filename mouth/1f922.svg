@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 36 36"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="1f922.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <metadata
+     id="metadata14">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs12" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1053"
+     id="namedview10"
+     showgrid="false"
+     inkscape:zoom="23.305556"
+     inkscape:cx="18"
+     inkscape:cy="18"
+     inkscape:window-x="1920"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg8" />
+  <path
+     d="m 15.364,26.122 -1.515,-2.295 c 1.154,-0.762 2.606,-1.182 4.089,-1.182 1.49,0 2.895,0.402 4.062,1.162 l -1.502,2.305 c -1.425,-0.928 -3.721,-0.924 -5.134,0.01 z"
+     id="path4"
+     style="fill:#292f33;fill-opacity:1" />
+  <path
+     fill="#3E721D"
+     d="M11.647 29.647c-.444 0-.857-.28-1.005-.724-.185-.555.115-1.155.669-1.339.095-.033 2.453-.877 2.453-3.231s-2.358-3.198-2.458-3.232c-.55-.191-.846-.791-.659-1.342.187-.552.78-.852 1.334-.665.159.053 3.9 1.344 3.9 5.239s-3.741 5.187-3.9 5.239c-.11.037-.223.055-.334.055zm12.705 0c-.111 0-.223-.018-.334-.055-.159-.053-3.9-1.344-3.9-5.239s3.741-5.187 3.9-5.239c.559-.187 1.154.115 1.339.669.185.553-.113 1.151-.664 1.338-.1.034-2.458.878-2.458 3.232s2.358 3.198 2.458 3.232c.551.191.847.791.66 1.342-.15.442-.561.72-1.001.72z"
+     id="path6" />
+</svg>

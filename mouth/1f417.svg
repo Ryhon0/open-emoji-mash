@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 36 36"
+   version="1.1"
+   id="svg16"
+   sodipodi:docname="1f417.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <metadata
+     id="metadata22">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs20" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1053"
+     id="namedview18"
+     showgrid="false"
+     inkscape:zoom="23.305556"
+     inkscape:cx="18"
+     inkscape:cy="18"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg16" />
+  <path
+     fill="#E1E8ED"
+     d="M7.65 29s-3.641-3-4.641-11.5c-.234-1.986 1.696-1.977 2 0C6.01 24 11.359 28 14 30c2.255 1.708-6.35-1-6.35-1zm20.7 0s3.641-3 4.641-11.5c.234-1.986-1.695-1.977-2 0C29.99 24 24.641 28 22 30c-2.255 1.708 6.35-1 6.35-1z"
+     id="path6" />
+  <path
+     d="M29 29c0 1.104-3.82 3-11 3S7 30.104 7 29s3.82 1 11 1 11-2.104 11-1z"
+     id="path8" />
+  <path
+     fill="#662113"
+     d="M28 23.125c0 4.487-3.097 9.375-10 9.375-6.904 0-10-4.888-10-9.375S11.096 17.5 18 17.5c6.903 0 10 1.138 10 5.625z"
+     id="path10" />
+  <path
+     fill="#C1694F"
+     d="M15 24.6c0 1.857-.34 2.4-1.5 2.4s-1.5-.543-1.5-2.4c0-1.856.34-2.399 1.5-2.399s1.5.542 1.5 2.399zm9 0c0 1.857-.34 2.4-1.5 2.4s-1.5-.543-1.5-2.4c0-1.856.34-2.399 1.5-2.399s1.5.542 1.5 2.399z"
+     id="path12" />
+</svg>

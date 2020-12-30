@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 36 36"
+   version="1.1"
+   id="svg18"
+   sodipodi:docname="1f439.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <metadata
+     id="metadata24">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs22" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1053"
+     id="namedview20"
+     showgrid="false"
+     inkscape:zoom="23.305556"
+     inkscape:cx="18"
+     inkscape:cy="18"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg18" />
+  <circle
+     fill="#FFCC4D"
+     cx="8.5"
+     cy="9.5"
+     r="8.5"
+     id="circle2" />
+  <circle
+     fill="#FFCC4D"
+     cx="27.5"
+     cy="9.5"
+     r="8.5"
+     id="circle4" />
+  <path
+     fill="#EA596E"
+     d="M13.912 5.854c-1.264-1.621-3.229-2.667-5.443-2.667-3.813 0-6.906 3.093-6.906 6.906 0 2.773 1.638 5.157 3.996 6.256.709-4.195 3.983-8.672 8.353-10.495zm13.619-2.666c-2.214 0-4.18 1.046-5.443 2.667 4.369 1.823 7.643 6.3 8.354 10.496 2.357-1.099 3.996-3.483 3.996-6.256 0-3.815-3.093-6.907-6.907-6.907z"
+     id="path6" />
+  <path
+     fill="#FFE8B6"
+     d="M34 22.593c-2-10.045-11.333-6.5-16-6.5s-14-3.546-16 6.5c-1.295 6.504 3.794 9.879 9.032 11.387C12.682 35.212 15.19 36 18 36c2.81 0 5.318-.788 6.969-2.021 5.237-1.508 10.326-4.882 9.031-11.386z"
+     id="path8" />
+  <path
+     fill="#FFCC4D"
+     d="M30.6 18c0 11-5.641 6-12.6 6S5.4 29 5.4 18c0-5.799 5.641-13 12.6-13s12.6 7.201 12.6 13z"
+     id="path10" />
+</svg>
