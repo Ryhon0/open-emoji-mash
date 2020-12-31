@@ -8,4 +8,4 @@ OUT=$2
 HEIGHT=$3
 
 echo Rendering $SVG to $OUT at "$HEIGHT"px
-inkscape  $SVG -h $HEIGHT -o $OUT &> /dev/null
+inkscape  $SVG -h $HEIGHT --export-png $OUT &> /dev/null
