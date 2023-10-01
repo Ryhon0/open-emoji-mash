@@ -1,9 +1,9 @@
 # Open Emoji Mash
-Open Emoji Mash is a library of cut up [twemoji](https://github.com/twitter/twemoji) emojis, which can be used to create emoji mixes, similarly to [EmojiMashupBot](https://twitter.com/EmojiMashupBot).
+Open Emoji Mash is a library of cut-up [twemoji](https://github.com/twitter/twemoji) emojis, which can be used to create emoji mixes, similar to [EmojiMashupBot](https://twitter.com/EmojiMashupBot).
 
 
 ## Projects using this library
-My personal  Discord bot
+My personal Discord bot
 
 ### Examples
 * C# Discord Bot (Coming soon) 
@@ -20,11 +20,11 @@ Open Emoji Mash dependencies are only needed if you're going to use the scripts 
 
 ## How do I use it?
 Open Emoji Mash provides scripts to render .svg files and combine the outputs, it's up to you how you want to implement it.  
-Additionally it provides the [bases.json file](bases.json), which lists commonly used bases. The key is the emoji code and value is the base.  
+Additionally, it provides the [bases.json file](bases.json), which lists commonly used bases. The key is the emoji code and the value is the base.  
 
 ### How to find a part of an emoji
 1. (Only for base) Check if the code has a value in the bases.json file
-	* If found a value, get the file from bases/shared  
+	* If a value is found, get the file from bases/shared  
 😂 -> `base/shared/regular.svg`
 2. Convert emoji to code
 	* Convert emoji string to UTF32
@@ -41,25 +41,27 @@ Additionally it provides the [bases.json file](bases.json), which lists commonly
 [🐱‍👤 -> Sorry, Microsoft, that's not an emoji](https://emojipedia.org/ninja-cat/)
 
 ### Render .svg files
+#### All .svg files
+Output is in the same folder as the .svg file and the extension changes to .png. The default render resolution is 512px.
+
 ```bash
-# Render all .svg files
-# Output is in the same folder as .svg file and the extension changes to .png
-# Default render resolution is 512px
 bin/render-all.sh
 ```
+
+#### A single .svg file
+
 ```bash
-# Render a single .svg file
-#			  Input .svg file       Output    Resolution (px)
+#             Input .svg file       Output    Resolution (px)
 bin/render.sh base/shared/blush.svg flush.png 512
 ```
-### Combine images
+
+### Combine multiple images
 ```bash
-#  Combine multiple images
 bin/combine.sh base.png eyes.png mouth.png special.png output.png
 ```
 
-### Clean rendered images
+### Remove all the rendered .png images
+
 ```bash
-# Remove all the rendered .png images
 bin/clean.sh
 ```
